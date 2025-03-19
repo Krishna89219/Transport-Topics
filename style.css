@@ -41,3 +41,66 @@ h2{
     font-style: italic;
     color: orange;
 }
+
+/* align right */
+img.align-right {
+    float: right;
+}
+
+
+/* Content */
+#content {
+    background-color: beige;
+    width:1850px;
+    height: 600px;
+    padding: 20px;
+    
+}
+
+/* Section */
+.grid-section {
+    display: grid;
+    grid-template-columns: 4fr 2fr 3fr;
+    padding: 10px;
+    
+}
+
+/* ai  image */
+.ai{
+    width:100%;
+}
+
+/* First line Caps */
+#w {
+    font-weight: bold;
+}
+
+/* Frist line caps */
+#x {
+    font-weight: bold;
+}
+
+/* first line caps */
+#y {
+    font-weight: bold;
+}
+
+/* first line caps */
+#t {
+font-weight: bold;
+}
+
+/* image */
+.fg {
+    width: 90%;
+}
+
+/* capital first line */
+#qz {
+    font-weight: bold;
+}
+
+/* ordered list space */
+ol li {
+    margin: 5px 0px;
+}

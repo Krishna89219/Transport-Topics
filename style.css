@@ -150,10 +150,17 @@ ol li {
     justify-content: space-between;
 }
 /* Heading bold */
-    #qm #us #mmm {
+    #qm {
         font-weight: bold;
     }
 
+    #us {
+        font-weight: bold;
+    }
+
+    #mmm {
+        font-weight: bold;
+    }
     /* Image width */
     .aa {
         width: 90%;
@@ -163,4 +170,23 @@ ol li {
     .mmm {
         width: 90%;
     }
+
+/* section 4 */
+.grid-section4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5px;
+    justify-content: space-around;
+    justify-content: space-between;
+}
+
+/* Heading bold */
+#jb #ue #hs {
+    font-weight: bold;
+}
+
+/* image width */
+.im {
+    width: 90%
+}
 

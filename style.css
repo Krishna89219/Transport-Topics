@@ -104,3 +104,63 @@ font-weight: bold;
 ol li {
     margin: 5px 0px;
 }
+
+/* section 2 */
+.grid-section2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5px;
+    justify-content: space-between;
+    
+
+}
+
+/* Heading Bold */
+#da {
+    font-weight: bold;
+}
+
+/* Heading Bold */
+#yc {
+    font-weight: bold;
+}
+
+/* Heading Bold */
+#om {
+    font-weight: bold;
+}
+
+/* image width section 2 */
+.oa {
+    width: 95%;
+}
+
+/* image width section 2 */
+.gh {
+    width: 95%;
+}
+
+/* section 3*/
+.grid-section3 {
+    background-color:lightgrey;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5px;
+    justify-content: space-between;
+    justify-content: space-between;
+}
+/* Heading bold */
+    #qm #us #mmm {
+        font-weight: bold;
+    }
+
+    /* Image width */
+    .aa {
+        width: 90%;
+    }
+
+    /* image Width */
+    .mmm {
+        width: 90%;
+    }
+

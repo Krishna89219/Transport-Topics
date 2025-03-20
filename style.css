@@ -57,7 +57,7 @@ img.align-right {
     
 }
 
-/* Section */
+/********************************************************** Section1 *****************************************************************/
 .grid-section {
     display: grid;
     grid-template-columns: 4fr 2fr 3fr;
@@ -105,7 +105,7 @@ ol li {
     margin: 5px 0px;
 }
 
-/* section 2 */
+/************************************************* section 2 *************************************************************/
 .grid-section2 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -140,7 +140,11 @@ ol li {
     width: 95%;
 }
 
-/* section 3*/
+.yk {
+    font-weight: bold;
+}
+
+/****************************************************** section 3**************************************************************/
 .grid-section3 {
     background-color:lightgrey;
     display: grid;

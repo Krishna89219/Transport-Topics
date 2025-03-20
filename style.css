@@ -181,7 +181,7 @@ ol li {
 }
 
 /* Heading bold */
-#jb #ue #hs {
+#jb, #ue, #hs, #hz, #gt {
     font-weight: bold;
 }
 
@@ -191,7 +191,7 @@ ol li {
 }
 
 
-/* button */
+/* button*/
 button {
     background-color: azure;
     border-radius: 10px;

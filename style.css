@@ -189,3 +189,20 @@ ol li {
 .im {
     width: 90%
 }
+
+
+/* button */
+button {
+    background-color: azure;
+    border-radius: 10px;
+    text-transform: uppercase;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+/* div id for buttions */
+.grid{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    gap:5px;
+}

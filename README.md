@@ -1,1 +1,1 @@
-CLone of NY Times homepage (https://www.nytimes.com)
+CLone of https://www.ttnews.com/  (https://www.ttnews.com/)

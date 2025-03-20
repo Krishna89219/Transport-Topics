@@ -171,6 +171,11 @@ ol li {
         width: 90%;
     }
 
+    /* heading bold */
+     #od, #im, #jo {
+        font-weight: bold;
+     }
+
 /* section 4 */
 .grid-section4 {
     display: grid;
